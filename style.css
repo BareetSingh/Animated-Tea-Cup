@@ -154,7 +154,14 @@ body {
 .flower {
     position: absolute;
     right: 52px;
-    top: 90px;
+    top: 60px;
     width: 180px;
     height: 200px;
+}
+
+.account-text {
+    position: absolute;
+    right: 52px;
+    top: 270px;
+    font-family: cursive;
 }
